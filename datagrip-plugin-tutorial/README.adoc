@@ -1,0 +1,6 @@
+= Synopsis
+A simple demo plugin for the DataGrip IDE
+
+= Links
+== IntelliJ Plugin Development Tutorials
+* https://plugins.jetbrains.com/docs/intellij/working-with-custom-actions.html#registering-an-action-with-the-new-action-form[Custom Actions]
