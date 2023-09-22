@@ -3,7 +3,7 @@ package de.qwhon.datagripplugintutorial
 import com.intellij.openapi.actionSystem.AnAction
 import com.intellij.openapi.actionSystem.AnActionEvent
 
-public class PopupDialogAction : AnAction() {
+class PopupDialogAction : AnAction() {
     override fun update(event: AnActionEvent) {
         // Using the event, evaluate the context,
         // and enable or disable the action.
